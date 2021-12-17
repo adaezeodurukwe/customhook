@@ -1,3 +1,3 @@
 # Custom hook example
 
-Clone repo and run `yarn start
+Clone repo and run `yarn start`
